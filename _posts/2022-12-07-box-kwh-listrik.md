@@ -4,7 +4,7 @@ title: Box kWh Listrik
 description: Box kWh Listrik crafted by ilovekayu
 price: "197.000"
 price_promo: "150.000"
-date: 2022-12-04 08:00:00 +07:00
+date: 2022-12-07 20:00:00 +07:00
 tags: ["box"]
 thumbnail: /products/Box-kwh.png
 products: ["/products/Box-kwh.png","/products/Box-kwh-(1).png","/products/Box-kwh-(2).png","/products/Box-kwh-(3).png"]
