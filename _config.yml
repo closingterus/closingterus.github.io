@@ -8,6 +8,9 @@ name: ilovekayu | WoodCraft & Furniture
 # Short bio or description (displayed in the header)
 description: Menyediakan beragam karya seni olahan kayu
 
+# Lock page
+locked: true
+
 # Keywords for crawling (displayed in the header)
 keywords: craft, furniture, olahan kayu, custom woodcraft, woodcraft, huruf kayu
 
