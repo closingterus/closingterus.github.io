@@ -171,11 +171,13 @@
 		}
 	</script>
 <script>
+	<center>
 	if ( window.location.href.indexOf('/produk/') > -1 ) {
 		sessionStorage.setItem('larizka-paginate',1)
 	} else {
 		sessionStorage.setItem('larizka-paginate',0)
 	}
+	</center>
 </script>
 	{% include analytics.html %}
 </slot>
