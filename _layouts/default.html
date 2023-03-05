@@ -45,7 +45,16 @@
 	fbq('init', '470981028463230');
 	fbq('track', 'PageView');
 	fbq('track', 'ViewContent');
+	</script>
+	
+	<!-- fbaddtocart -->
+	<button id="addToCartButton">Order {title}</button>
+	
+	<script type="text/javascript">
+	$('#addToCartButton').click(function() {
 	fbq('track', 'Lead');
+	fbq('track', 'AddToCart');
+	  });
 	</script>
 
 	<noscript><img height="1" width="1" style="display:none"
